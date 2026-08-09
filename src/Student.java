@@ -4,6 +4,7 @@ public class Student {
     String name;
     String course;
     String email;
+    String phone;
 
     public Student(int id, String name, String course) {
         this.id = id;
