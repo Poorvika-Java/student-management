@@ -7,5 +7,8 @@ public class StudentManagement {
 
         student1.displayStudent();
         student2.displayStudent();
+
+        student1.showCourse();
+        student2.showCourse();
     }
 }

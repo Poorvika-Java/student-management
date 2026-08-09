@@ -19,4 +19,8 @@ public class Student {
         System.out.println("Course: " + course);
         System.out.println("Phone: " + phone);
     }
+
+    public void showCourse() {
+        System.out.println("Student Course: " + course);
+    }
 }
