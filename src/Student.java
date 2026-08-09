@@ -2,7 +2,7 @@ public class Student {
 
     int id;
     String name;
-    String course;
+    String course = "Spring Boot";
     String email;
     String phone;
 
