@@ -20,4 +20,8 @@ public class Student {
         System.out.println("Phone: " + phone);
         System.out.println("Email: " + email);
     }
+
+    public void showCourse() {
+        System.out.println("Student Course: " + course);
+    }
 }
